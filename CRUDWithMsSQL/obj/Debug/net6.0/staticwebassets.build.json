@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rO4VVeM6lMPKGLPOTv35kPeb/HhKnpP2Qdf4pT2ei7s=",
+  "Source": "CRUDWithMsSQL",
+  "BasePath": "_content/CRUDWithMsSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.deps.json
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.runtimeconfig.json
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.dll
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.pdb
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.csproj.AssemblyReference.cache
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.AssemblyInfoInputs.cache
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.AssemblyInfo.cs
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.dll
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\refint\ClassLibrary.Data.dll
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.pdb
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.genruntimeconfig.cache
+D:\Projects\DotNet\Basic\CRUDWithMsSQL\ClassLibrary.Data\obj\Debug\net6.0\ref\ClassLibrary.Data.dll
